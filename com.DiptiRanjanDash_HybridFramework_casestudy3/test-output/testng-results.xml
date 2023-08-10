@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-10T12:41:02 IST" name="Default suite" finished-at="2023-07-10T12:41:31 IST" duration-ms="28972">
+    <groups>
+    </groups>
+    <test started-at="2023-07-10T12:41:02 IST" name="Default test" finished-at="2023-07-10T12:41:31 IST" duration-ms="28972">
+      <class name="Test.Testclass">
+        <test-method is-config="true" signature="opening()[pri:0, instance:Test.Testclass@188715b5]" started-at="2023-07-10T12:41:02 IST" name="opening" finished-at="2023-07-10T12:41:05 IST" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opening -->
+        <test-method signature="executing()[pri:0, instance:Test.Testclass@188715b5]" started-at="2023-07-10T12:41:05 IST" name="executing" finished-at="2023-07-10T12:41:31 IST" duration-ms="25858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executing -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:Test.Testclass@188715b5]" started-at="2023-07-10T12:41:31 IST" name="closing" finished-at="2023-07-10T12:41:31 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- Test.Testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
